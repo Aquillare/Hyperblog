@@ -42,3 +42,16 @@ body
 {
     padding: 1em;
 }
+
+.footer{
+    display: flex;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    background:linear-gradient(25deg, blue, green);
+    justify-content: end;
+}
+.footer_p{
+    margin:0;
+    padding: 0.5em;
+}
