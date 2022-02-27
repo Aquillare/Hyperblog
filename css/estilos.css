@@ -16,13 +16,28 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    display: flex;
+    align-content: center;
 }
 
+.star{
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    align-self: center;
+    
+}
+
+#cabecera h1{
+    font-size:1.2em;
+    margin: 0;
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    align-self: center;
 }
 
 #container
@@ -37,6 +52,7 @@ body
 #container h1
 {
     font-size: 20 px;
+    align-self: center;
 }
 #post
 {
