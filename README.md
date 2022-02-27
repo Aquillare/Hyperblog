@@ -2,7 +2,7 @@
 Un blog increible para el curso de Git y Git hub de Platzi.
 >Git es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, desde proyectos pequeños hasta proyectos muy grandes, con rapidez y eficiencia. 
 
-			>-git-scm.com
+>-git-scm.com
 
 En este curso aprendimos:
 
